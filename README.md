@@ -16,4 +16,7 @@ where:
 
 - h(n) → Euclidean or Manhattan distance to goal
 
+## Run the node 
+    python3 a_star.py
+
 ![A* Pathfinding](/image/a_star.png)
