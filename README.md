@@ -15,3 +15,5 @@ where:
 - g(n) → cost from start to node
 
 - h(n) → Euclidean or Manhattan distance to goal
+
+![A* Pathfinding](/image/a_star.png)
