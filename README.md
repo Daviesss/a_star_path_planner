@@ -2,7 +2,8 @@
 A lightweight Python implementation of the A* pathfinding algorithm with matplotlib visualization.
 
 ## Dependecies 
-pip3 install matplotlib
+    pip3 install matplotlib
+    pip3 install numpy
 
 ## How it works 
 - The planner computes the optimal path from the current position to the goal using a grid-based search.
